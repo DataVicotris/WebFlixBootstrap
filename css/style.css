@@ -84,6 +84,12 @@ body {
     text-align: center;
 }
 
+#card img {
+    aspect-ratio: 16 / 9;
+  width: 100%;
+  object-fit: cover;
+}
+
 /* END OF CARDS  */
 
 
