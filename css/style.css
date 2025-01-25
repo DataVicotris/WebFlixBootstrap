@@ -287,8 +287,7 @@ input[type="submit"]:hover {
 
 
 .mylink {
-    text-decoration: none;
-    color: rgb(215, 145, 159);
+    color: rgb(237, 221, 224);
     transition: all 0.3s ease;
 }
 
